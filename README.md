@@ -1,19 +1,147 @@
-[README.docx](https://github.com/user-attachments/files/29832492/README.docx)
-[guide.md](https://github.com/user-attachments/files/29833761/guide.md)
-          <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1040178053 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-font-kerning:1.0pt; mso-ligatures:standardcontextual; mso-fareast-language:EN-US;} h1 {mso-style-priority:9; mso-style-unhide:no; mso-style-qformat:yes; mso-style-link:"Heading 1 Char"; mso-style-next:Normal; margin-top:18.0pt; margin-right:0cm; margin-bottom:4.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan lines-together; page-break-after:avoid; mso-outline-level:1; font-size:20.0pt; font-family:"Calibri Light",sans-serif; mso-ascii-font-family:"Calibri Light"; mso-ascii-theme-font:major-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-hansi-font-family:"Calibri Light"; mso-hansi-theme-font:major-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; color:#2F5496; mso-themecolor:accent1; mso-themeshade:191; mso-font-kerning:1.0pt; mso-ligatures:standardcontextual; mso-fareast-language:EN-US; font-weight:normal;} h2 {mso-style-noshow:yes; mso-style-priority:9; mso-style-qformat:yes; mso-style-link:"Heading 2 Char"; mso-style-next:Normal; margin-top:8.0pt; margin-right:0cm; margin-bottom:4.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan lines-together; page-break-after:avoid; mso-outline-level:2; font-size:16.0pt; font-family:"Calibri Light",sans-serif; mso-ascii-font-family:"Calibri Light"; mso-ascii-theme-font:major-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-hansi-font-family:"Calibri Light"; mso-hansi-theme-font:major-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; color:#2F5496; mso-themecolor:accent1; mso-themeshade:191; mso-font-kerning:1.0pt; mso-ligatures:standardcontextual; mso-fareast-language:EN-US; font-weight:normal;} h3 {mso-style-noshow:yes; mso-style-priority:9; mso-style-qformat:yes; mso-style-link:"Heading 3 Char"; mso-style-next:Normal; margin-top:8.0pt; margin-right:0cm; margin-bottom:4.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan lines-together; page-break-after:avoid; mso-outline-level:3; font-size:14.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; color:#2F5496; mso-themecolor:accent1; mso-themeshade:191; mso-font-kerning:1.0pt; mso-ligatures:standardcontextual; mso-fareast-language:EN-US; font-weight:normal;} h4 {mso-style-noshow:yes; mso-style-priority:9; mso-style-qformat:yes; mso-style-link:"Heading 4 Char"; mso-style-next:Normal; margin-top:4.0pt; margin-right:0cm; margin-bottom:2.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan lines-together; page-break-after:avoid; mso-outline-level:4; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; color:#2F5496; mso-themecolor:accent1; mso-themeshade:191; mso-font-kerning:1.0pt; mso-ligatures:standardcontextual; mso-fareast-language:EN-US; font-weight:normal; font-style:italic;} h5 {mso-style-noshow:yes; mso-style-priority:9; mso-style-qformat:yes; mso-style-link:"Heading 5 Char"; mso-style-next:Normal; margin-top:4.0pt; margin-right:0cm; margin-bottom:2.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan lines-together; page-break-after:avoid; mso-outline-level:5; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; color:#2F5496; mso-themecolor:accent1; mso-themeshade:191; mso-font-kerning:1.0pt; mso-ligatures:standardcontextual; mso-fareast-language:EN-US; font-weight:normal;} h6 {mso-style-noshow:yes; mso-style-priority:9; mso-style-qformat:yes; mso-style-link:"Heading 6 Char"; mso-style-next:Normal; margin-top:2.0pt; margin-right:0cm; margin-bottom:0cm; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan lines-together; page-break-after:avoid; mso-outline-level:6; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; color:#595959; mso-themecolor:text1; mso-themetint:166; mso-font-kerning:1.0pt; mso-ligatures:standardcontextual; mso-fareast-language:EN-US; font-weight:normal; font-style:italic;} p.MsoHeading7, li.MsoHeading7, div.MsoHeading7 {mso-style-noshow:yes; mso-style-priority:9; mso-style-qformat:yes; mso-style-link:"Heading 7 Char"; mso-style-next:Normal; margin-top:2.0pt; margin-right:0cm; margin-bottom:0cm; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan lines-together; page-break-after:avoid; mso-outline-level:7; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; color:#595959; mso-themecolor:text1; mso-themetint:166; mso-font-kerning:1.0pt; mso-ligatures:standardcontextual; mso-fareast-language:EN-US;} p.MsoHeading8, li.MsoHeading8, div.MsoHeading8 {mso-style-noshow:yes; mso-style-priority:9; mso-style-qformat:yes; mso-style-link:"Heading 8 Char"; mso-style-next:Normal; margin:0cm; line-height:107%; mso-pagination:widow-orphan lines-together; page-break-after:avoid; mso-outline-level:8; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; color:#272727; mso-themecolor:text1; mso-themetint:216; mso-font-kerning:1.0pt; mso-ligatures:standardcontextual; mso-fareast-language:EN-US; font-style:italic;} p.MsoHeading9, li.MsoHeading9, div.MsoHeading9 {mso-style-noshow:yes; mso-style-priority:9; mso-style-qformat:yes; mso-style-link:"Heading 9 Char"; mso-style-next:Normal; margin:0cm; line-height:107%; mso-pagination:widow-orphan lines-together; page-break-after:avoid; mso-outline-level:9; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; color:#272727; mso-themecolor:text1; mso-themetint:216; mso-font-kerning:1.0pt; mso-ligatures:standardcontextual; mso-fareast-language:EN-US;} p.MsoTitle, li.MsoTitle, div.MsoTitle {mso-style-priority:10; mso-style-unhide:no; mso-style-qformat:yes; mso-style-link:"Title Char"; mso-style-next:Normal; margin-top:0cm; margin-right:0cm; margin-bottom:4.0pt; margin-left:0cm; mso-add-space:auto; mso-pagination:widow-orphan; font-size:28.0pt; font-family:"Calibri Light",sans-serif; mso-ascii-font-family:"Calibri Light"; mso-ascii-theme-font:major-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-hansi-font-family:"Calibri Light"; mso-hansi-theme-font:major-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; letter-spacing:-.5pt; mso-font-kerning:14.0pt; mso-ligatures:standardcontextual; mso-fareast-language:EN-US;} p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst {mso-style-priority:10; mso-style-unhide:no; mso-style-qformat:yes; mso-style-link:"Title Char"; mso-style-next:Normal; mso-style-type:export-only; margin:0cm; mso-add-space:auto; mso-pagination:widow-orphan; font-size:28.0pt; font-family:"Calibri Light",sans-serif; mso-ascii-font-family:"Calibri Light"; mso-ascii-theme-font:major-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-hansi-font-family:"Calibri Light"; mso-hansi-theme-font:major-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; letter-spacing:-.5pt; mso-font-kerning:14.0pt; mso-ligatures:standardcontextual; mso-fareast-language:EN-US;} p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle {mso-style-priority:10; mso-style-unhide:no; mso-style-qformat:yes; mso-style-link:"Title Char"; mso-style-next:Normal; mso-style-type:export-only; margin:0cm; mso-add-space:auto; mso-pagination:widow-orphan; font-size:28.0pt; font-family:"Calibri Light",sans-serif; mso-ascii-font-family:"Calibri Light"; mso-ascii-theme-font:major-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-hansi-font-family:"Calibri Light"; mso-hansi-theme-font:major-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; letter-spacing:-.5pt; mso-font-kerning:14.0pt; mso-ligatures:standardcontextual; mso-fareast-language:EN-US;} p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast {mso-style-priority:10; mso-style-unhide:no; mso-style-qformat:yes; mso-style-link:"Title Char"; mso-style-next:Normal; mso-style-type:export-only; margin-top:0cm; margin-right:0cm; margin-bottom:4.0pt; margin-left:0cm; mso-add-space:auto; mso-pagination:widow-orphan; font-size:28.0pt; font-family:"Calibri Light",sans-serif; mso-ascii-font-family:"Calibri Light"; mso-ascii-theme-font:major-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-hansi-font-family:"Calibri Light"; mso-hansi-theme-font:major-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; letter-spacing:-.5pt; mso-font-kerning:14.0pt; mso-ligatures:standardcontextual; mso-fareast-language:EN-US;} p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle {mso-style-priority:11; mso-style-unhide:no; mso-style-qformat:yes; mso-style-link:"Subtitle Char"; mso-style-next:Normal; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan; font-size:14.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; color:#595959; mso-themecolor:text1; mso-themetint:166; letter-spacing:.75pt; mso-font-kerning:1.0pt; mso-ligatures:standardcontextual; mso-fareast-language:EN-US;} p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:36.0pt; mso-add-space:auto; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-font-kerning:1.0pt; mso-ligatures:standardcontextual; mso-fareast-language:EN-US;} p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-type:export-only; margin-top:0cm; margin-right:0cm; margin-bottom:0cm; margin-left:36.0pt; mso-add-space:auto; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-font-kerning:1.0pt; mso-ligatures:standardcontextual; mso-fareast-language:EN-US;} p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-type:export-only; margin-top:0cm; margin-right:0cm; margin-bottom:0cm; margin-left:36.0pt; mso-add-space:auto; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-font-kerning:1.0pt; mso-ligatures:standardcontextual; mso-fareast-language:EN-US;} p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-type:export-only; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:36.0pt; mso-add-space:auto; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-font-kerning:1.0pt; mso-ligatures:standardcontextual; mso-fareast-language:EN-US;} p.MsoQuote, li.MsoQuote, div.MsoQuote {mso-style-priority:29; mso-style-unhide:no; mso-style-qformat:yes; mso-style-link:"Quote Char"; mso-style-next:Normal; margin-top:8.0pt; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; text-align:center; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; color:#404040; mso-themecolor:text1; mso-themetint:191; mso-font-kerning:1.0pt; mso-ligatures:standardcontextual; mso-fareast-language:EN-US; font-style:italic;} p.MsoIntenseQuote, li.MsoIntenseQuote, div.MsoIntenseQuote {mso-style-priority:30; mso-style-unhide:no; mso-style-qformat:yes; mso-style-link:"Intense Quote Char"; mso-style-next:Normal; margin-top:18.0pt; margin-right:43.2pt; margin-bottom:18.0pt; margin-left:43.2pt; text-align:center; line-height:107%; mso-pagination:widow-orphan; border:none; mso-border-top-alt:solid #2F5496 .5pt; mso-border-top-themecolor:accent1; mso-border-top-themeshade:191; mso-border-bottom-alt:solid #2F5496 .5pt; mso-border-bottom-themecolor:accent1; mso-border-bottom-themeshade:191; padding:0cm; mso-padding-alt:10.0pt 0cm 10.0pt 0cm; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; color:#2F5496; mso-themecolor:accent1; mso-themeshade:191; mso-font-kerning:1.0pt; mso-ligatures:standardcontextual; mso-fareast-language:EN-US; font-style:italic;} span.MsoIntenseEmphasis {mso-style-priority:21; mso-style-unhide:no; mso-style-qformat:yes; color:#2F5496; mso-themecolor:accent1; mso-themeshade:191; font-style:italic;} span.MsoIntenseReference {mso-style-priority:32; mso-style-unhide:no; mso-style-qformat:yes; font-variant:small-caps; color:#2F5496; mso-themecolor:accent1; mso-themeshade:191; letter-spacing:.25pt; font-weight:bold;} span.Heading1Char {mso-style-name:"Heading 1 Char"; mso-style-priority:9; mso-style-unhide:no; mso-style-locked:yes; mso-style-link:"Heading 1"; mso-ansi-font-size:20.0pt; mso-bidi-font-size:20.0pt; font-family:"Calibri Light",sans-serif; mso-ascii-font-family:"Calibri Light"; mso-ascii-theme-font:major-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-hansi-font-family:"Calibri Light"; mso-hansi-theme-font:major-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; color:#2F5496; mso-themecolor:accent1; mso-themeshade:191;} span.Heading2Char {mso-style-name:"Heading 2 Char"; mso-style-noshow:yes; mso-style-priority:9; mso-style-unhide:no; mso-style-locked:yes; mso-style-link:"Heading 2"; mso-ansi-font-size:16.0pt; mso-bidi-font-size:16.0pt; font-family:"Calibri Light",sans-serif; mso-ascii-font-family:"Calibri Light"; mso-ascii-theme-font:major-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-hansi-font-family:"Calibri Light"; mso-hansi-theme-font:major-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; color:#2F5496; mso-themecolor:accent1; mso-themeshade:191;} span.Heading3Char {mso-style-name:"Heading 3 Char"; mso-style-noshow:yes; mso-style-priority:9; mso-style-unhide:no; mso-style-locked:yes; mso-style-link:"Heading 3"; mso-ansi-font-size:14.0pt; mso-bidi-font-size:14.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; color:#2F5496; mso-themecolor:accent1; mso-themeshade:191;} span.Heading4Char {mso-style-name:"Heading 4 Char"; mso-style-noshow:yes; mso-style-priority:9; mso-style-unhide:no; mso-style-locked:yes; mso-style-link:"Heading 4"; font-family:"Times New Roman",serif; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; color:#2F5496; mso-themecolor:accent1; mso-themeshade:191; font-style:italic;} span.Heading5Char {mso-style-name:"Heading 5 Char"; mso-style-noshow:yes; mso-style-priority:9; mso-style-unhide:no; mso-style-locked:yes; mso-style-link:"Heading 5"; font-family:"Times New Roman",serif; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; color:#2F5496; mso-themecolor:accent1; mso-themeshade:191;} span.Heading6Char {mso-style-name:"Heading 6 Char"; mso-style-noshow:yes; mso-style-priority:9; mso-style-unhide:no; mso-style-locked:yes; mso-style-link:"Heading 6"; font-family:"Times New Roman",serif; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; color:#595959; mso-themecolor:text1; mso-themetint:166; font-style:italic;} span.Heading7Char {mso-style-name:"Heading 7 Char"; mso-style-noshow:yes; mso-style-priority:9; mso-style-unhide:no; mso-style-locked:yes; mso-style-link:"Heading 7"; font-family:"Times New Roman",serif; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; color:#595959; mso-themecolor:text1; mso-themetint:166;} span.Heading8Char {mso-style-name:"Heading 8 Char"; mso-style-noshow:yes; mso-style-priority:9; mso-style-unhide:no; mso-style-locked:yes; mso-style-link:"Heading 8"; font-family:"Times New Roman",serif; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; color:#272727; mso-themecolor:text1; mso-themetint:216; font-style:italic;} span.Heading9Char {mso-style-name:"Heading 9 Char"; mso-style-noshow:yes; mso-style-priority:9; mso-style-unhide:no; mso-style-locked:yes; mso-style-link:"Heading 9"; font-family:"Times New Roman",serif; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; color:#272727; mso-themecolor:text1; mso-themetint:216;} span.TitleChar {mso-style-name:"Title Char"; mso-style-priority:10; mso-style-unhide:no; mso-style-locked:yes; mso-style-link:Title; mso-ansi-font-size:28.0pt; mso-bidi-font-size:28.0pt; font-family:"Calibri Light",sans-serif; mso-ascii-font-family:"Calibri Light"; mso-ascii-theme-font:major-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-hansi-font-family:"Calibri Light"; mso-hansi-theme-font:major-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; letter-spacing:-.5pt; mso-font-kerning:14.0pt;} span.SubtitleChar {mso-style-name:"Subtitle Char"; mso-style-priority:11; mso-style-unhide:no; mso-style-locked:yes; mso-style-link:Subtitle; mso-ansi-font-size:14.0pt; mso-bidi-font-size:14.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:major-fareast; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:major-bidi; color:#595959; mso-themecolor:text1; mso-themetint:166; letter-spacing:.75pt;} span.QuoteChar {mso-style-name:"Quote Char"; mso-style-priority:29; mso-style-unhide:no; mso-style-locked:yes; mso-style-link:Quote; color:#404040; mso-themecolor:text1; mso-themetint:191; font-style:italic;} span.IntenseQuoteChar {mso-style-name:"Intense Quote Char"; mso-style-priority:30; mso-style-unhide:no; mso-style-locked:yes; mso-style-link:"Intense Quote"; color:#2F5496; mso-themecolor:accent1; mso-themeshade:191; font-style:italic;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:595.3pt 841.9pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:35.4pt; mso-footer-margin:35.4pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+# Class AB Audio Power Amplifier Simulation using LTspice
 
-Project Overview: Rigging up and simulation of the circuit of a class AB Audio Amplifier in LT Spice and carrying out relevant performance analysis and testing.
+## Project Overview
 
-Transient Analysis:
+This project presents the design, simulation, and performance analysis of a **Class AB Audio Power Amplifier** using **LTspice**.
 
-![](README_files/image002.png)
+The amplifier combines the advantages of Class A and Class B amplifiers by providing high linearity with improved efficiency while minimizing crossover distortion. Various analyses were performed to evaluate the amplifier's performance, including transient analysis, FFT analysis, distortion analysis, and efficiency analysis.
 
-FFT Analysis:
+---
 
-![](README_files/image004.png)
+## Objectives
 
-Distortion Analysis:
+- Design a Class AB Audio Power Amplifier.
+- Simulate the amplifier in LTspice.
+- Verify signal amplification through transient analysis.
+- Analyze the output spectrum using FFT.
+- Study distortion characteristics.
+- Calculate amplifier efficiency.
 
-![](README_files/image006.png)
+---
 
-Efficiency Analysis: 47%
+## Software Used
+
+- LTspice XVII
+
+---
+
+##  Circuit Diagram
+
+Below is the complete LTspice schematic used for the simulation.
+
+<p align="center">
+   <img width="800" alt="image" src="https://github.com/user-attachments/assets/b089dc9f-d8e3-47e1-9855-b300359a176f" />
+
+</p>
+
+---
+
+## Block Diagram
+
+The signal flow of the amplifier is shown below.
+
+```
+Input Signal
+      │
+      ▼
+Pre-Amplifier
+      │
+      ▼
+Interstage Coupling & Bias Network
+      │
+      ▼
+Class AB Output Stage
+      │
+      ▼
+Speaker
+```
+
+---
+
+#  Simulation Results
+
+## 1️ Transient Analysis
+
+The transient analysis verifies that the amplifier correctly amplifies the input signal.
+
+### Waveforms
+<p align="center">
+    <img width="800" alt="image" src="https://github.com/user-attachments/assets/63d06767-478d-45d8-a55a-1acde4ff27e6" />
+</p>
+
+### Observation
+
+- Output waveform follows the input waveform.
+- Desired voltage amplification is achieved.
+- Very little crossover distortion is observed.
+- Output remains stable throughout the simulation.
+
+---
+
+## 2️ FFT Analysis
+
+FFT analysis was performed to examine the frequency components of the output signal.
+
+
+<p align="center">
+    <img width="800" alt="image" src="https://github.com/user-attachments/assets/ccb94c46-2c86-4932-bba8-a421b7eb2dab" />
+
+</p>
+
+### Observation
+
+- Fundamental frequency has the highest magnitude.
+- Harmonic components are comparatively smaller.
+- Indicates good audio signal quality.
+- Low harmonic distortion is observed.
+
+---
+
+## 3️ Distortion Analysis
+
+The distortion analysis evaluates the quality of the amplified signal.
+
+<p align="center">
+    <img width="800" alt="image" src="https://github.com/user-attachments/assets/b718fa3b-29f8-44c1-881d-6790490e6383" />
+
+</p>
+
+### Observation
+
+- Minimal crossover distortion due to proper Class AB biasing.
+- Output waveform remains nearly sinusoidal.
+- Signal distortion is significantly lower than a Class B amplifier.
+
+---
+### Result
+
+| Parameter | Value |
+|-----------|-------|
+| Efficiency | **47%** |
+
+### Observation
+
+- The amplifier achieves **47% efficiency**.
+- Efficiency is significantly higher than a Class A amplifier.
+- Provides a good balance between efficiency and signal fidelity.
+
+---
+
+# Results Summary
+
+| Parameter | Result |
+|-----------|--------|
+| Amplifier Type | Class AB |
+| Simulation Software | LTspice XVII |
+| Analyses Performed | Transient, FFT, Distortion, Efficiency |
+| Efficiency | **47%** |
+| Output Quality | Low Distortion |
+| Application | Audio Power Amplification |
+
+---
+
+#  Future Improvements
+
+- PCB implementation
+- Hardware implementation
+- Higher output power design
